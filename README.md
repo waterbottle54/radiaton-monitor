@@ -61,11 +61,9 @@
    
      📹 [YouTube Channel](https://github.com/waterbottle54)
    
- <img src="https://github.com/waterbottle54/tumor_simulator/blob/main/demo-about.png" alt="My Image" width="70%">
-
  ## Version History
  * **1.01** (2021.5): First Release
-   
+   ![](https://github.com/waterbottle54/radiaton-monitor/blob/main/onestore.png)
 
  ## Acknowledgments
  * (주)한국수력원자력 (KHNP Co.,Ltd.)
