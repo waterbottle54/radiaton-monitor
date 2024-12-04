@@ -59,7 +59,7 @@
    
      📚 [Portfolio](https://www.devsungwonjo.pe.kr/)
    
-     📹 [YouTube Channel](https://github.com/waterbottle54)
+     📹 [Youtube Channel](https://www.youtube.com/@vanilla03034)
    
  ## Version History
  * **1.01** (2021.5): First Release
