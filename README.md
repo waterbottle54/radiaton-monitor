@@ -2,9 +2,13 @@
 
  ## Introduction
 
- Nationwide monitoring         |  Focused monitoring
+ Nationwide monitoring     |  Focused monitoring
 :-------------------------:|:-------------------------:
 ![](https://github.com/waterbottle54/radiaton-monitor/blob/main/images.png) | ![](https://github.com/waterbottle54/radiaton-monitor/blob/main/gori.png)
+
+ Warning Preferences       |  Virtual Warning Test
+ :------------------------:|:-------------------------:
+ ![](https://github.com/waterbottle54/radiaton-monitor/blob/main/settings.png) | ![](https://github.com/waterbottle54/radiaton-monitor/blob/main/warnings.png)
  
  * **원전 방사능 실시간 모니터링**은 **Java / Android** 로 작성된 **Mobile** 공공 안전 어플리케이션입니다.<br>
 
