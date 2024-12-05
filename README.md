@@ -12,9 +12,10 @@
 
  
  * **원전 방사능 실시간 모니터링**은 **Java / Android** 로 작성된 **Mobile** 공공 안전 어플리케이션입니다.<br>
-
+ 
    이 어플리케이션은 **(주)한수원** 으로부터 방사선량 데이터를 제공받습니다. <br>
 
+   Rest API(XML)로부터 방사선량을 제공받고, Sevice Component를 통해 경고 기능을 구현하였습니다.
 
  ## Funtionality
 > ### Monitoring
